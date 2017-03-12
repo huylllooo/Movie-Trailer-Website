@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+# Create movie objects
 BvS = media.Movie("Batman v Superman: Dawn of Justice",
                 "https://images-na.ssl-images-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg",  # NOQA
                 "https://www.youtube.com/watch?v=0WWzgGyAH6Y")
